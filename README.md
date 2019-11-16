@@ -1,2 +1,2 @@
-# Cpp_Console_Games
+# Cpp-Console-Games
 Console games made in C++
