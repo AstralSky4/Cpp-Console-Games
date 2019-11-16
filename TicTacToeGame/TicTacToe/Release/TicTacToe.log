@@ -1,0 +1,8 @@
+﻿  main.cpp
+  TicTacToeGame.cpp
+  Generating code
+  120 of 122 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TicTacToe.vcxproj -> A:\Development\Unreal Engine\Unreal Course\TicTacToeGame\Release\TicTacToe.exe
